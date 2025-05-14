@@ -1,4 +1,5 @@
 # SMS Spam Detection & Text Analysis Project
+(Collaborative Project between Audrey Stuart and Mouyseang An)
 
 This project applies natural language processing (NLP), sentiment analysis, topic modeling, and BERT-based classification to a dataset of SMS messages labeled as **spam** or **ham**. The full pipeline is implemented in **Google Colab** using **pandas**, **NLTK**, **Gensim**, and **Hugging Face Transformers**.
 
