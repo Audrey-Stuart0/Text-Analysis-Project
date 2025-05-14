@@ -13,7 +13,7 @@ This project applies natural language processing (NLP), sentiment analysis, topi
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
 ### 1. Text Cleaning & Preprocessing
 - Removed stopwords, punctuation, mentions, and links
